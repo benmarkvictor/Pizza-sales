@@ -126,7 +126,7 @@ Marketing campaigns should emphasize Classic and Chicken pizzas while introducin
 
 Click the image below to view the full interactive dashboard.
 
-![Pizza Sales Dashboard](images/pizza-sales-dashboard.png)
+![Pizza Sales Dashboard](https://github.com/benmarkvictor/Pizza-sales/blob/main/Screenshot%202026-07-08%20175312.png)
 
 ---
 
