@@ -148,17 +148,14 @@ Click the image below to view the full interactive dashboard.
 ## 📂 Project Structure
 
 ```text
-Pizza-Sales-Dashboard/
+Pizza-Sales
 │
 ├── Data/
-│   ├── pizza_sales.xlsx
-│   └── cleaned_data.xlsx
-│
-├── Dashboard/
-│   └── Pizza Sales Dashboard.xlsx
+│   ├── order_details.xlsx
+│  
 │
 ├── Images/
-│   └── pizza-sales-dashboard.png
+│   └── screenshot 2026.png
 │
 └── README.md
 ```
